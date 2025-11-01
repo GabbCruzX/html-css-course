@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GBrowserService"><![CDATA[{
+  "defaultHomePage": "google.com",
+  "theme": "LIGHT",
+  "history": [
+    {
+      "name": "GBrowser - IntelliJ IDEs Plugin | Marketplace",
+      "url": "https://plugins.jetbrains.com/plugin/14458-gbrowser"
+    },
+    {
+      "name": "Google",
+      "url": "https://www.google.com/"
+    },
+    {
+      "name": "Sign in - Google Accounts",
+      "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2F&dsh=S-853762299%3A1761920699047331&ec=futura_exp_og_so_72776762_e&hl=en&ifkv=ARESoU0FKpkaFs5dZL1gNlEZ1BVp-_lUqjhPTWFwYO_vx1g1xg102bFQr83arHQ8NjNsMudmX8Zk&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+    },
+    {
+      "name": "Welcome",
+      "url": "https://accounts.google.com/v3/signin/challenge/pwd?TL=ANzgctQR-m2_9Fedlg2HvsHocy-_ZH3yXlRC-rHdbvSjwSPbrPikEY5rxBQ5W705&checkConnection=youtube%3A338&checkedDomains=youtube&cid=2&continue=https%3A%2F%2Fwww.google.com%2F&dsh=S-853762299%3A1761920699047331&ec=futura_exp_og_so_72776762_e&flowEntry=ServiceLogin&flowName=GlifWebSignIn&hl=en&ifkv=ARESoU0FKpkaFs5dZL1gNlEZ1BVp-_lUqjhPTWFwYO_vx1g1xg102bFQr83arHQ8NjNsMudmX8Zk&pstMsg=1"
+    },
+    {
+      "name": "Welcome",
+      "url": "https://accounts.google.com/v3/signin/challenge/selection?TL=ANzgctQR-m2_9Fedlg2HvsHocy-_ZH3yXlRC-rHdbvSjwSPbrPikEY5rxBQ5W705&checkConnection=youtube%3A338&checkedDomains=youtube&continue=https%3A%2F%2Fwww.google.com%2F&dsh=S-853762299%3A1761920699047331&ec=futura_exp_og_so_72776762_e&flowEntry=ServiceLogin&flowName=GlifWebSignIn&hl=en&ifkv=ARESoU0FKpkaFs5dZL1gNlEZ1BVp-_lUqjhPTWFwYO_vx1g1xg102bFQr83arHQ8NjNsMudmX8Zk&lid=1&pstMsg=1"
+    },
+    {
+      "name": "2-Step Verification To help keep your account safe, Google wants to make sure it’s really you trying to sign in",
+      "url": "https://accounts.google.com/v3/signin/challenge/dp?TL=ANzgctQR-m2_9Fedlg2HvsHocy-_ZH3yXlRC-rHdbvSjwSPbrPikEY5rxBQ5W705&checkConnection=youtube%3A338&checkedDomains=youtube&cid=12&continue=https%3A%2F%2Fwww.google.com%2F&dsh=S-853762299%3A1761920699047331&ec=futura_exp_og_so_72776762_e&flowEntry=ServiceLogin&flowName=GlifWebSignIn&hl=en&ifkv=ARESoU0FKpkaFs5dZL1gNlEZ1BVp-_lUqjhPTWFwYO_vx1g1xg102bFQr83arHQ8NjNsMudmX8Zk&pstMsg=1"
+    },
+    {
+      "name": "Sign in - Google Accounts",
+      "url": "https://accounts.google.com/v3/signin/speedbump/passkeyenrollment?TL=ANzgctQR-m2_9Fedlg2HvsHocy-_ZH3yXlRC-rHdbvSjwSPbrPikEY5rxBQ5W705&checkConnection=youtube%3A338&checkedDomains=youtube&continue=https%3A%2F%2Fwww.google.com%2F&dsh=S-853762299%3A1761920699047331&ec=futura_exp_og_so_72776762_e&flowEntry=ServiceLogin&flowName=GlifWebSignIn&hl=en&ifkv=ARESoU0FKpkaFs5dZL1gNlEZ1BVp-_lUqjhPTWFwYO_vx1g1xg102bFQr83arHQ8NjNsMudmX8Zk&pstMsg=1"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/?themeRefresh=1"
+    },
+    {
+      "name": "The Music Channel - YouTube",
+      "url": "https://www.youtube.com/channel/UC-9-kyTW8ZkZNDHQJ6FgpwQ"
+    },
+    {
+      "name": "This is universal problem 😅 - YouTube",
+      "url": "https://www.youtube.com/shorts/9flCHzhVnQc"
+    },
+    {
+      "name": "Cat blamed, dog confused — who’s telling the truth? - YouTube",
+      "url": "https://www.youtube.com/shorts/bsx_ncSfPck"
+    },
+    {
+      "name": "Buttons Exercise",
+      "url": "https://supersimple.dev/exercises/buttons/"
+    },
+    {
+      "name": "",
+      "url": "google.com"
+    }
+  ]
+}]]></component>
+</project>
