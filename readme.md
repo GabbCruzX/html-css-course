@@ -25,4 +25,4 @@ Feel free to explore, fork, or provide suggestions!
 ---
 
 **Status:** In progress 📚  
-**Author:** [Your Name]
+**Author:** Gabb Cruz
